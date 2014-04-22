@@ -14,7 +14,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "tinymce": "PerfectlyNormal/tinymce-build#v3.5.8"
   },
   "main": "plugins/uploadimage/editor_plugin.js"
 }
