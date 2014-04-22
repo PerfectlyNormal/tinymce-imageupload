@@ -16,5 +16,5 @@
   "dependencies": {
     "tinymce": "PerfectlyNormal/tinymce-build#v3.5.8"
   },
-  "main": "tinymce/plugins/uploadimage/editor_plugin.js"
+  "main": "plugins/uploadimage/editor_plugin.js"
 }
