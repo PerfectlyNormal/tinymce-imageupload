@@ -1,0 +1,20 @@
+{
+  "name": "tinymce-imageupload",
+  "repository": "PerfectlyNormal/tinymce-imageupload",
+  "version": "3.5.8",
+  "homepage": "https://github.com/PerfectlyNormal/tinymce-imageupload",
+  "authors": [
+    "Per Christian B. Viken <perchr@northblue.org>"
+  ],
+  "description": "Plugin for TinyMCE for uploading local images (backend independent)",
+  "keywords": [
+    "tinymce",
+    "fileupload",
+    "plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tinymce": "PerfectlyNormal/tinymce-build#v3.5.8"
+  },
+  "main": "tinymce/plugins/uploadimage/editor_plugin.js"
+}
